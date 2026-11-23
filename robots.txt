@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /manmanlai/
+Sitemap: https://sinosale.github.io/manmanlai/sitemap.xml
